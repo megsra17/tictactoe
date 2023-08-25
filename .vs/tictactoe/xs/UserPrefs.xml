@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{DF1BE108-79FF-4F45-835C-2658878A9A12}|Default">
+  <MonoDevelop.Ide.ItemProperties.tictactoe FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <DisabledProjects>
+    <String>tictactoe/tictactoe.csproj</String>
+  </DisabledProjects>
+  <MultiItemStartupConfigurations />
+</Properties>
